@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+
+#heading{
+    color: yellow;
+    background-color: red;
+}
+
+#note_div{
+    background-color: #fc9803;
+}
+
+#second_heading{
+    color:white;    
+}
+
+#font_size{
+    color: white;
+}
+
+.footer{
+    position:fixed;
+    color:white;
+    bottom: 0;
+    width:100%;
+    background-color: gray;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    border:5px solid white;
+    border-radius: 20px;
+    box-shadow:5px 5px 5px gray;
+}
